@@ -1,0 +1,18 @@
+Package: liftLRD
+Type: Package
+Title: Wavelet Lifting Estimators of the Hurst Exponent for Regularly
+        and Irregularly Sampled Time Series
+Version: 1.0-5
+Date: 2016-09-06
+Author: Marina Knight [aut], Guy Nason [ctb], Matt Nunes [aut, cre]
+Authors@R: c(person("Marina", "Knight", role="aut"), person("Guy","Nason",role="ctb"), person("Matt",
+        "Nunes", role=c("aut","cre"),email="m.nunes@lancaster.ac.uk"))
+Maintainer: Matt Nunes <m.nunes@lancaster.ac.uk>
+Description: Implementations of Hurst exponent estimators based on the relationship between wavelet lifting scales and wavelet energy. 
+License: GPL-2
+Depends: adlift, nlt
+Suggests: fArma
+NeedsCompilation: no
+Packaged: 2016-09-07 11:21:06 UTC; nunes
+Repository: CRAN
+Date/Publication: 2016-09-07 14:41:36
