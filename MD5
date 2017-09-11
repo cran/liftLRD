@@ -1,4 +1,4 @@
-0c3a4e6f6015670fa4f31666fb8d50c3 *DESCRIPTION
+3af590c86156c1ddc9dc8e5c5e9722f6 *DESCRIPTION
 d604837d328959d48bde53f0bc03520f *NAMESPACE
 7468d1577423d6b8917d3fdc04361fad *R/Hfrombeta.R
 7f11dd85099985535bba91bdcf954752 *R/artificial.levels.R
@@ -11,9 +11,9 @@ cbf507c7ecb0c7ace83273b395ddda7c *R/liftHurst.R
 ae75aaa189f00cc20839759c4d6c5057 *R/meanmo.R
 8a892d489bdb399c1cae11025c7d9105 *R/medj.R
 0035408820e1ff8f73acce6284ac9845 *R/zzz.R
-20ab344dc5b607dfe076dccca504832e *man/Hfrombeta.Rd
+7954bfb9cc5d9d5cac53140b72a884c2 *man/Hfrombeta.Rd
 238b8544ed813d0899eaa5a27f68c2aa *man/artificial.levels.Rd
-31fa7ef00198209a746e12feadd102d5 *man/bootci.Rd
-f4e9dd68a78d5780438373ee38266e70 *man/idj.Rd
-0bda50ebf00d11631d7f693cf475d29c *man/liftHurst.Rd
-6a1c54cbfd727284531212d6c586ffd7 *man/liftLRD-package.Rd
+c04f3321e4e4f684a888cd8fdebb3887 *man/bootci.Rd
+aec31f9f9380996de2aa812758857fec *man/idj.Rd
+769f21cdebb80cddbc99092d8a120b37 *man/liftHurst.Rd
+a635484eb44cd956ef81e7a7648e583d *man/liftLRD-package.Rd

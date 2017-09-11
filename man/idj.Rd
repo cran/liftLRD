@@ -33,7 +33,7 @@ meanmo(x)
 A numeric value corresponding to the average squared detail coefficient, squared mean absolute deviation, median scale etc.  
 }
 \references{
-Knight, M. I, Nason, G. P. and Nunes, M. A. (2016) A wavelet lifting approach to long-memory estimation. \emph{Stat. Comput. (to appear)} DOI 10.1007/s11222-016-9698-2.
+Knight, M. I, Nason, G. P. and Nunes, M. A. (2017) A wavelet lifting approach to long-memory estimation. \emph{Stat. Comput.} \bold{27} (6), 1453--1471. DOI 10.1007/s11222-016-9698-2.
 }
 
 \author{

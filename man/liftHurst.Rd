@@ -82,7 +82,7 @@ lifting paths.  The third column is the standard deviation of the \code{ntraj} H
 If \code{BHonly=FALSE}, the routine also returns the energies and scales (on a log scale) which are used in the regression to estimate the decay properties of the spectrum (for the last lifting trajectory), as well as the weights used in the regression (if \code{vc = TRUE}).  if \code{jsc = TRUE}, the slope of the integral log-linear relationship is also returned.
 }
 \references{
-Knight, M. I, Nason, G. P. and Nunes, M. A. (2016) A wavelet lifting approach to long-memory estimation. \emph{Stat. Comput. (to appear)} DOI 10.1007/s11222-016-9698-2.\cr\cr
+Knight, M. I, Nason, G. P. and Nunes, M. A. (2017) A wavelet lifting approach to long-memory estimation. \emph{Stat. Comput.}  \bold{27} (6), 1453--1471. DOI 10.1007/s11222-016-9698-2.\cr\cr
 
 For more details on the weighted linear regression and bias calculations, see e.g.\cr \cr
 
@@ -99,17 +99,17 @@ Marina Knight, Matt Nunes
 }
 \examples{
 
-library(fArma)
+library(fracdiff)
 
 # simulate a long range dependent time series
-x<-fgnSim(n = 200, H = 0.8)
+x<-fracdiff.sim(n = 200, d = 0.3)$series
 
 # perform lifting-based estimation of the Hurst exponent
 
 Hestx<-liftHurst(x, tradonly=TRUE)
 
 # An example with missingness
-x1<-fgnSim(n = 500, H = 0.8)
+x1<-fracdiff.sim(n = 500, d = 0.3)$series
 gap1<-30:40
 gap2<-77:90
 gap3<-146:166

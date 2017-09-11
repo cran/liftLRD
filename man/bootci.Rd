@@ -23,7 +23,7 @@ bootci(x, level = 0.05)
 A vector of length 2, indicating the lower and upper confidence interval values.
 }
 \references{
-Knight, M. I, Nason, G. P. and Nunes, M. A. (2016) A wavelet lifting approach to long-memory estimation. \emph{Stat. Comput. (to appear)} DOI 10.1007/s11222-016-9698-2.\cr\cr
+Knight, M. I, Nason, G. P. and Nunes, M. A. (2017) A wavelet lifting approach to long-memory estimation. \emph{Stat. Comput.} \bold{27} (6), 1453--1471. DOI 10.1007/s11222-016-9698-2.\cr\cr
 }
 
 
@@ -41,8 +41,6 @@ Matt Nunes
 }
 
 \examples{
-
-library(fArma)
 
 x<-rnorm(100,0.7,0.24)	# vector representing Hurst estimates from NLT
 
