@@ -13,8 +13,8 @@ Package information:
 \tabular{ll}{
 Package: \tab liftLRD\cr
 Type: \tab Package\cr
-Version: \tab 1.0-5\cr
-Date: \tab 18/08/2016\cr
+Version: \tab 1.0-7\cr
+Date: \tab 2018-05-21\cr
 License: \tab GPL-2\cr
 }
 
