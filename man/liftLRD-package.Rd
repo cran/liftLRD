@@ -33,7 +33,7 @@ Beran, J. et al. (2013) Long-memory processes.  Springer.
 \author{
 Marina Knight, Guy Nason, Matt Nunes 
 
-Maintainer: Matt Nunes <m.nunes@lancaster.ac.uk>
+Maintainer: Matt Nunes <nunesrpackages@gmail.com>
 }
 
 \keyword{ package }
