@@ -1,4 +1,4 @@
-c2931d6b5f3352369257722519413ff1 *DESCRIPTION
+b9cb5f533c67f349566c17389c53ee13 *DESCRIPTION
 d604837d328959d48bde53f0bc03520f *NAMESPACE
 7468d1577423d6b8917d3fdc04361fad *R/Hfrombeta.R
 7f11dd85099985535bba91bdcf954752 *R/artificial.levels.R
@@ -16,4 +16,4 @@ ae75aaa189f00cc20839759c4d6c5057 *R/meanmo.R
 c04f3321e4e4f684a888cd8fdebb3887 *man/bootci.Rd
 aec31f9f9380996de2aa812758857fec *man/idj.Rd
 769f21cdebb80cddbc99092d8a120b37 *man/liftHurst.Rd
-e55dad1998f969d878cec5fd2ebf1471 *man/liftLRD-package.Rd
+e615231136edcff2996a0ba33388e644 *man/liftLRD-package.Rd

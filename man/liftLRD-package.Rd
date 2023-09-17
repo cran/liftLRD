@@ -9,15 +9,6 @@ Wavelet lifting estimators of the Hurst exponent for regularly and irregularly s
 Implementations of Hurst exponent estimators based on the relationship between wavelet lifting scales and wavelet energy
 }
 \details{
-Package information:
-\tabular{ll}{
-Package: \tab liftLRD\cr
-Type: \tab Package\cr
-Version: \tab 1.0-7\cr
-Date: \tab 2018-05-21\cr
-License: \tab GPL-2\cr
-}
-
 This package exploits a wavelet transform for irregularly spaced data to form wavelet-like scale-based energy measures for a time series.  This is then used to estimate the Hurst exponent. The main routine is \cr\cr
 \code{\link{liftHurst}}
  

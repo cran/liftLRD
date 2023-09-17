@@ -2,8 +2,8 @@ Package: liftLRD
 Type: Package
 Title: Wavelet Lifting Estimators of the Hurst Exponent for Regularly
         and Irregularly Sampled Time Series
-Version: 1.0-8
-Date: 2018-07-18
+Version: 1.0-9
+Date: 2023-08-20
 Author: Marina Knight [aut],
   Guy Nason [ctb],
   Matt Nunes [aut, cre]
@@ -15,6 +15,6 @@ License: GPL-2
 Depends: adlift, nlt
 Suggests: fracdiff
 NeedsCompilation: no
-Packaged: 2018-07-18 11:54:43 UTC; nunes
+Packaged: 2023-09-17 08:27:29 UTC; matt
 Repository: CRAN
-Date/Publication: 2018-07-18 12:40:03 UTC
+Date/Publication: 2023-09-17 08:50:02 UTC
